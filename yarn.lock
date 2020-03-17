@@ -1212,9 +1212,9 @@ acorn-walk@^6.1.1:
   integrity sha1-Ejy487hMIXHx9/slJhWxx4prGow=
 
 acorn@^6.0.2, acorn@^6.0.7, acorn@^6.1.1, acorn@^6.2.1:
-  version "6.3.0"
-  resolved "https://registry.npm.taobao.org/acorn/download/acorn-6.3.0.tgz#0087509119ffa4fc0a0041d1e93a417e68cb856e"
-  integrity sha1-AIdQkRn/pPwKAEHR6TpBfmjLhW4=
+  version "6.4.1"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.1.tgz#531e58ba3f51b9dacb9a6646ca4debf5b14ca474"
+  integrity sha512-ZVA9k326Nwrj3Cj9jlh3wGFutC2ZornPNARZwsNYqQYgN0EsV2d53w5RN/co65Ohn4sUAUtb1rSUAOD6XN9idA==
 
 address@^1.1.2:
   version "1.1.2"
@@ -2854,6 +2854,11 @@ duplexify@^3.4.2, duplexify@^3.6.0:
     inherits "^2.0.1"
     readable-stream "^2.0.0"
     stream-shift "^1.0.0"
+
+dvs-base64tofile@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/dvs-base64tofile/-/dvs-base64tofile-1.0.6.tgz#9851db432a443ae8c3a1129c05054be2d9bfa621"
+  integrity sha512-yo9ESN63DnAuqCmTmZVo+q4VdOF2s/1BT4Rf0x+x3Vxe1RnV1PD0v4qpUKIrq3APjowhHKiSuWqwg+H61hMAhQ==
 
 easy-stack@^1.0.0:
   version "1.0.0"
