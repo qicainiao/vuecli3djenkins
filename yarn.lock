@@ -2594,9 +2594,9 @@ decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.npm.taobao.org/decode-uri-component/download/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-equal@^1.0.1:
   version "1.1.0"
@@ -2854,6 +2854,11 @@ duplexify@^3.4.2, duplexify@^3.6.0:
     inherits "^2.0.1"
     readable-stream "^2.0.0"
     stream-shift "^1.0.0"
+
+dvs-base64tofile@^1.0.6:
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/dvs-base64tofile/-/dvs-base64tofile-1.0.9.tgz#2cc863c2b78d04018a547e8e33cff1c0e29f16e2"
+  integrity sha512-6gAOh8ac9tUZLRmM/PZvs0VJ56Qpkpw79ODDs2kq0bo+B5/HN2qVYO+lB2nCzY8ymNWDH/tyluBj4AOn5Cqv+w==
 
 easy-stack@^1.0.0:
   version "1.0.0"
